@@ -1,0 +1,35 @@
+li.nav-item.right {
+    position: absolute;
+    right: 0px;
+}
+.avatar {
+    background-image: url('./images/Psycho04_2016-241x300.jpg');
+    -webkit-background-size: contain;
+    background-size: contain;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+p.profession, p.date {
+    margin-bottom: 0;
+}
+.profession {
+    font-weight: 500;
+}
+.company {
+    font-weight: 300;
+    font-style: italic;
+}
+
+.date {
+    color: deepskyblue;
+}
+a.nav-link.go {
+    color: deeppink;
+}
+a.nav-link.activ {
+    color: deeppink;
+}
